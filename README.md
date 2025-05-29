@@ -22,4 +22,4 @@ This is a simple project to begin my journey into analytics and gain skills that
 - While the average stats generation-to-generation do not vary by much more than 20, generation 4 has the highest stats on average.
 
 ## Data Source
-Source - [Kaggle - Video Games Sales Dataset]([https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset](https://www.kaggle.com/datasets/abcsds/pokemon?resource=download])
+Source - [Kaggle - Pokemon Stats Dataset](https://www.kaggle.com/datasets/abcsds/pokemon?resource=download)
