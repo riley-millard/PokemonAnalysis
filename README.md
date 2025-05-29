@@ -15,3 +15,11 @@ This is a simple project to begin my journey into analytics and gain skills that
 - Tableau Public
 - GitHub
 - Notion (for portfolio)
+
+## Key Insights
+- Dragon-type Pokémon tend to have higher stats on average, with Bug-types having the lowest.
+- Legendary Pokémon have higher average stats than non-Legendary, with more than 200 points difference.
+- While the average stats generation-to-generation do not vary by much more than 20, generation 4 has the highest stats on average.
+
+## Data Source
+Source - [Kaggle - Video Games Sales Dataset]([https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset](https://www.kaggle.com/datasets/abcsds/pokemon?resource=download])
